@@ -109,7 +109,7 @@
                         <div class="row flex-v-center">
                             <div class="col-md-8 col-lg-7 col-sm-12 col-xs-12">
                                 <div class="welcome-text">
-                                    <h1>Traditional values</h1>
+                                    <h1>Moderen Teaching </h1>
                                     <p>A modern, individualised education</p>
                                     <div class="home-button">
                                         <form action="#">
@@ -328,7 +328,7 @@
                 <div class="col-md-5 col-lg-5 col-sm-12 col-xs-12">
                     <div class="about-content xs-mb50 wow fadeIn">
                         <h3 class="xs-font20 mb30">Education is the foundation upon which we build our future.</h3>
-                        <p>A Google Docs scam that appears to be widespread began landing in users’ inboxes on Wednesday in what seemed to be a sophisticated phishing or malware attack. The deceptive invitation to edit a Google Doc on Google Docs with you.</p>
+                        <p>NCC, NSS Units for both Boys and Girls  APSSDC, PMKVY Affiliated Campus Exclusive R&D Labs Best Placement Award by WIPRO Digital Classrooms & Expansive Library Strong Network of Alumni Sports Ground & Gym Separate Hostel Facility for both Boys & Girls Transport Facility available Certificate Courses (Beautician Course for women, DTP, Tally with GST, Electrical Wiring) - Approved by AKNU </p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6 col-md-offset-1 col-lg-offset-1 col-sm-12 col-xs-12">
