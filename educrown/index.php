@@ -222,7 +222,7 @@
             <div class="row">
                 <div class="col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2 col-sm-12 col-xs-12">
                     <div class="text-center wow fadeIn">
-                        <h2 class="xs-font20">Excellent Placement Record Ensuring High Flying Career with</h2>
+                        <h2 class="xs-font20">A Professionally Managed Institute</h2>
                         <p>Unlike most institutions VSM is managed by professionals drawn from  prestigious institutions, NRI’s and top corporates. Management draws its strength from valuable inputs given by its stakeholders – academicians, industry, global partners, students and parents.</p>
                     </div>
                 </div>
@@ -238,13 +238,13 @@
             <div class="row">
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="single-fun-fact mb30 wow fadeInUp" data-wow-delay="0.1s">
-                        <h3 class="font60 xs-font26"><span class="counter">54</span>Years</h3>
+                        <h3 class="font60 xs-font26"><span class="counter">54  </span>Years</h3>
                         <p class="font600">Of Excellence in Education</p>
                     </div>
                 </div>
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="single-fun-fact mb30 wow fadeInUp" data-wow-delay="0.2s">
-                        <h3 class="font60 xs-font26"><span class="counter">400</span></h3>
+                        <h3 class="font60 xs-font26"><span class="counter">400</span>+</h3>
                         <p class="font600">Placements in 2019-20</p>
                     </div>
                 </div>
@@ -328,7 +328,16 @@
                 <div class="col-md-5 col-lg-5 col-sm-12 col-xs-12">
                     <div class="about-content xs-mb50 wow fadeIn">
                         <h3 class="xs-font20 mb30">Education is the foundation upon which we build our future.</h3>
-                        <p>NCC, NSS Units for both Boys and Girls  APSSDC, PMKVY Affiliated Campus Exclusive R&D Labs Best Placement Award by WIPRO Digital Classrooms & Expansive Library Strong Network of Alumni Sports Ground & Gym Separate Hostel Facility for both Boys & Girls Transport Facility available Certificate Courses (Beautician Course for women, DTP, Tally with GST, Electrical Wiring) - Approved by AKNU </p>
+                        <p>NCC, NSS Units for both Boys and Girls</p>
+                        <p>Exclusive R&D Labs</p>
+                        <p>Best Placement Award by WIPRO</p>
+                        <p>Digital Classrooms & Expansive Library</p>
+                        <p>Strong Network of Alumni</p>
+                        <p>Sports Ground & Gym</p>
+                        <p>Separate Hostel Facility for both Boys & Girls</p>
+                        <p>Transport Facility available</p>
+                        <p>Certificate Courses (Beautician Course for women</p>
+                        <p>DTP, Tally with GST, Electrical Wiring) - Approved by AKNU</p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6 col-md-offset-1 col-lg-offset-1 col-sm-12 col-xs-12">
@@ -350,7 +359,7 @@
             <div class="row">
                 <div class="col-md-8 col-lg-8 col-md-offset-2 col-lg-offset-2 col-sm-12 col-xs-12">
                     <div class="area-title text-center wow fadeIn">
-                        <h2>What Our Customer Say</h2>
+                        <h2>ALUMINI TALK</h2>
                     </div>
                 </div>
             </div>
@@ -359,38 +368,38 @@
                     <div class="testmonial-slider">
                         <div class="single-testmonial">
                             <div class="author-content mb20">
-                                <p>“The recording starts with the patter of a summer squall. Later a drifting tone like that of a not-quite-tuned-in radio station rises and for a while drowns out the patter. These are the sounds encountered by NASA.”</p>
+                                <p>Excellent College</p>
                             </div>
                             <div class="author-name-image relative">
                                 <div class="author-img mb20">
                                     <img src="assest/img/testmonial/testmonial.jpg" alt="">
                                 </div>
-                                <h4>Harold Crouse</h4>
-                                <a href="#">Sales manager</a>
+                                <h4>Ashva</h4>
+                                <a href="#">Student</a>
                             </div>
                         </div>
                         <div class="single-testmonial">
                             <div class="author-content mb20">
-                                <p>“The recording starts with the patter of a summer squall. Later a drifting tone like that of a not-quite-tuned-in radio station rises and for a while drowns out the patter. These are the sounds encountered by NASA.”</p>
+                                <p>Excellent College</p>
                             </div>
                             <div class="author-name-image relative">
                                 <div class="author-img mb20">
                                     <img src="assest/img/testmonial/testmonial.jpg" alt="">
                                 </div>
-                                <h4>Harold Crouse</h4>
-                                <a href="#">Sales manager</a>
+                                <h4>Ashva</h4>
+                                <a href="#">Student</a>
                             </div>
                         </div>
                         <div class="single-testmonial">
                             <div class="author-content mb20">
-                                <p>“The recording starts with the patter of a summer squall. Later a drifting tone like that of a not-quite-tuned-in radio station rises and for a while drowns out the patter. These are the sounds encountered by NASA.”</p>
+                                <p>Excellent College</p>
                             </div>
                             <div class="author-name-image relative">
                                 <div class="author-img mb20">
                                     <img src="assest/img/testmonial/testmonial.jpg" alt="">
                                 </div>
-                                <h4>Harold Crouse</h4>
-                                <a href="#">Sales manager</a>
+                                <h4>Ashva</h4>
+                                <a href="#">Student</a>
                             </div>
                         </div>
                     </div>
@@ -467,14 +476,14 @@
             <div class="row">
                 <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
                     <div class="area-title text-center wow fadeIn">
-                        <h2>Placements</h2>
+                        <h2>400+ Placements in 2019-20</h2>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
                     <div class="text-icon-box relative mb50 wow fadeInUp" data-wow-delay="0.1s">
-                        <h3 class="box-title">400+ Placements in 2019-20</h3>
+                        <h3 class="box-title">Our Placements</h3>
                         <p>TCS-2</p>
                         <p>HGS-80</p>
                         <p>PRIMESOFT-7</p>
@@ -587,7 +596,8 @@
     <!--CONTACT US AREA END-->
 
     <!--CLIENT AREA-->
-    <div class="client-area  padding-bottom mt100 sm-mt10 xs-mt0">
+ 
+ <!--   <div class="client-area  padding-bottom mt100 sm-mt10 xs-mt0">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
@@ -636,12 +646,12 @@
                 <div class="col-md-6 col-lg-6 col-sm-6 col-xs-12">
                     <div class="admition-content xs-center xs-mb30">
                         <h3 class="xs-font20">Addmission are now open</h3>
-                        <p>Writers and stars of Veep have responded incredulously to the news an Australian politician required stitches after knocking himself unconscious .</p>
+                        <p>Come Let's Learn </p>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6 col-sm-6 col-xs-12">
                     <div class="enroll-button right xs-center">
-                        <a href="#">Enroll Now</a>
+                       <!-- <a href="#">Enroll Now</a> -->
                     </div>
                 </div>
             </div>
@@ -657,9 +667,9 @@
                     <div class="col-md-5 col-lg-5 col-sm-12 col-xs-12">
                         <div class="single-footer footer-about sm-mb50 xs-mb50 sm-center xs-center">
                             <div class="footer-logo mb30">
-                                <a href="#"><img src="assest/img/logo.png" alt=""></a>
+                                <a href="#"><img src="assest/img/logo1.png" alt=""></a>
                             </div>
-                            <p>Saudi Arabia has been accused of using anti-terror laws to suppress free expression and failing to carry out independent inquiries into its Yemen.</p>
+                            <p>VSM has emerged as the most trusted brand among its students from surrounding areas and our students stand testimony to the fact. Academicians from prominent institutions of India have become the part of VSM community and are leading us towards academic excellence. What started as an aided college has now developed into a sturdy network with top corporates who guide our way and many companies recruit from us annually</p>
                         </div>
                     </div>
                     <div class="col-md-2 col-lg-2 col-sm-4 col-xs-12">
@@ -677,7 +687,7 @@
                     <div class="col-md-5 col-lg-5 col-sm-8 col-xs-12">
                         <div class="single-footer footer-subscribe white xs-center">
                             <h3 class="mb30 xs-font18">Subscribe Our Newsletter</h3>
-                            <p>Doubtful for answered one fat indulged margaret sir shutters together. Ladies so in wholly .</p>
+                            <p></p>
                             <div class="subscriber-form-area mt50 wow fadeIn">
                                 <!--<form action="#" class="subscriber-form mb100">
                                     <input type="email" name="email" id="email" placeholder="Email Address">
@@ -696,17 +706,18 @@
         </div>
         <script async>(function(w, d) { w.CollectId = "5e96dab470351f466a582ffc"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
         <div class="footer-bottom-area white">
-            <div class="container">
+             <div class="container">
                 <div class="row">
                     <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
                         <div class="footer-copyright text-center wow fadeIn">
-                            <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+                            
+|| Developed By || by <a href="https://ashvaacreativeco.herokuapp.com/" target="_blank">Ashvaa</a>
+</p>
                         </div>
                     </div>
                 </div>
             </div>
+      
         </div>
     </footer>
     <!--FOOER AREA END-->
