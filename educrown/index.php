@@ -355,7 +355,7 @@
                         <img src="assest/img/Courses/blog-8.jpg" alt="">
                         <div class="course-details padding30">
                             <h3 class="font18">P.G(AUTONOMOUS)</h3>
-                            <p>M.Sc >Organic Chemistry, Analytical, Botany,Zoology,Physics</p> 
+                            <p>M.Sc >Organic Chemistry, Analytical Chemistry , Botany,Zoology,Physics</p> 
                             <p class="mt30"><a href="#" class="enroll-button">Enroll the Courses</a> <span class="course-price"></span></p>
                         </div>
                     </div>
