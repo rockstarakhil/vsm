@@ -44,7 +44,7 @@
 
     <!--- PRELOADER -->
     <div class="preeloader">
-        <div class="preloader-spinner"></div>
+        <div class="preloader-spinner"><img src="assest/img/logo1.png" alt="logo"></div>
     </div>
 
     <!--SCROLL TO TOP-->
@@ -238,7 +238,7 @@
             <div class="row">
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="single-fun-fact mb30 wow fadeInUp" data-wow-delay="0.1s">
-                        <h3 class="font60 xs-font26"><span class="counter">54  </span>Years</h3>
+                        <h3 class="font60 xs-font26"><span class="counter">54</span>Years</h3>
                         <p class="font600">Of Excellence in Education</p>
                     </div>
                 </div>
@@ -278,44 +278,90 @@
             <div class="row course-list">
                 <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
                     <div class="single-course mb20">
-                        <img src="assest/img/course/blog-1.jpg" alt="">
+                        <img src="assest/img/Courses/blog-1.jpg" alt="">
                         <div class="course-details padding30">
-                            <h3 class="font18">How to Write a Powerful Speech</h3>
-                            <p>MPs who are leaving the protection of for the campaign trail will render...</p>
-                            <p class="mt30"><a href="#" class="enroll-button">Enroll the Courses</a> <span class="course-price">$29.99</span></p>
+                            <h3 class="font18">B.tech(Affiliated to JNTUK)</h3>
+                            <p>ECE,  EEE,  CSE, CIVIL, MECH</p>
+                            <p class="mt30"><a href="#" class="enroll-button">Enroll the Courses</a> <span class="course-price"></span></p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
                     <div class="single-course mb20">
-                        <img src="assest/img/course/blog-2.jpg" alt="">
+                        <img src="assest/img/Courses/blog-2.jpg" alt="">
                         <div class="course-details padding30">
-                            <h3 class="font18">The Art and Practice of Leadership</h3>
-                            <p>MPs who are leaving the protection of for the campaign trail will render...</p>
-                            <p class="mt30"><a href="#" class="enroll-button">Enroll the Courses</a> <span class="course-price">$29.99</span></p>
+                            <h3 class="font18">M.Tech.(Affiliated to JNTUK)</h3>
+                            <p>CSE , VLSI & ESD </p>
+                            <p class="mt30"><a href="#" class="enroll-button">Enroll the Courses</a> <span class="course-price"></span></p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
                     <div class="single-course mb20">
-                        <img src="assest/img/course/blog-3.jpg" alt="">
+                        <img src="assest/img/Courses/blog-3.jpg" alt="">
                         <div class="course-details padding30">
-                            <h3 class="font18">Introduction to Resume Writing</h3>
-                            <p>MPs who are leaving the protection of for the campaign trail will render...</p>
-                            <p class="mt30"><a href="#" class="enroll-button">Enroll the Courses</a> <span class="course-price">$29.99</span></p>
+                            <h3 class="font18">POLYTECHNIC</h3>
+                            <p>DECE , DEEE , DME </p>
+                            <p class="mt30"><a href="#" class="enroll-button">Enroll the Courses</a> <span class="course-price"></span></p>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
                     <div class="single-course mb20">
-                        <img src="assest/img/course/blog-4.jpg" alt="">
+                        <img src="assest/img/Courses/blog-4.jpg" alt="">
                         <div class="course-details padding30">
-                            <h3 class="font18">The Art and Practice of Leadership</h3>
-                            <p>MPs who are leaving the protection of for the campaign trail will render...</p>
-                            <p class="mt30"><a href="#" class="enroll-button">Enroll the Courses</a> <span class="course-price">$29.99</span></p>
+                            <h3 class="font18">DEGREE(AUTONOMOUS)</h3>
+                            <p>B.Sc => MPC,Computer Science,CBZ,Aquacultre Technology</p>
+                            <p> B.Com => General, Computer Applications</p>
+                            <p class="mt30"><a href="#" class="enroll-button">Enroll the Courses</a> <span class="course-price"></span></p>
                         </div>
                     </div>
                 </div>
+
+                 <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
+                    <div class="single-course mb20">
+                        <img src="assest/img/Courses/blog-5.jpg" alt="">
+                        <div class="course-details padding30">
+                            <h3 class="font18">MANAGEMENT PROGRAMS</h3>
+                            <p>BBA || MBA </p>
+                            <p class="mt30"><a href="#" class="enroll-button">Enroll the Courses</a> <span class="course-price"></span></p>
+                        </div>
+                    </div>
+                </div>
+                 <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
+                    <div class="single-course mb20">
+                        <img src="assest/img/Courses/blog-6.jpg" alt="">
+                        <div class="course-details padding30">
+                            <h3 class="font18">COMPUTER APPLICATIONS PROGRAMS </h3>
+                            <p>BCA || MCA</p>
+                            <p class="mt30"><a href="#" class="enroll-button">Enroll the Courses</a> <span class="course-price"></span></p>
+                        </div>
+                    </div>
+                </div>
+
+                 <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
+                    <div class="single-course mb20">
+                        <img src="assest/img/Courses/blog-7.jpg" alt="">
+                        <div class="course-details padding30">
+                            <h3 class="font18">ARTS PROGRAMS</h3>
+                            <p>B.A, M.A. History</p>
+                            <p class="mt30"><a href="#" class="enroll-button">Enroll the Courses</a> <span class="course-price"></span></p>
+                        </div>
+                    </div>
+                </div>
+
+                 <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
+                    <div class="single-course mb20">
+                        <img src="assest/img/Courses/blog-8.jpg" alt="">
+                        <div class="course-details padding30">
+                            <h3 class="font18">P.G(AUTONOMOUS)</h3>
+                            <p>M.Sc >Organic Chemistry, Analytical, Botany,Zoology,Physics</p> 
+                            <p class="mt30"><a href="#" class="enroll-button">Enroll the Courses</a> <span class="course-price"></span></p>
+                        </div>
+                    </div>
+                </div>
+
+
             </div>
         </div>
     </section>
