@@ -91,10 +91,10 @@
                                     <h1>Give wings to your Career</h1>
                                     <p>Shaping the brightest careers with values & Commitment</p>
                                     <div class="home-button">
-                                        <form action="#">
+                                     <!--   <form action="#">
                                             <input type="search" name="search" id="search" placeholder="Find Your Courses Here">
                                             <button type="submit"><i class="fa fa-search"></i></button>
-                                        </form>
+                                        </form> -->
                                     </div>
                                 </div>
                             </div>
@@ -112,10 +112,10 @@
                                     <h1>Moderen Teaching </h1>
                                     <p>A modern, individualised education</p>
                                     <div class="home-button">
-                                        <form action="#">
+                                    <!--    <form action="#">
                                             <input type="search" name="search" id="search" placeholder="Search Courses">
                                             <button type="submit"><i class="fa fa-search"></i></button>
-                                        </form>
+                                        </form> -->
                                     </div>
                                 </div>
                             </div>
@@ -134,10 +134,10 @@
                                     <h1>Traditional values</h1>
                                     <p> Preparing Students for Success in A Changing World</p>
                                     <div class="home-button">
-                                        <form action="#">
+                                  <!--      <form action="#">
                                             <input type="search" name="search" id="search" placeholder="Search Courses">
                                             <button type="submit"><i class="fa fa-search"></i></button>
-                                        </form>
+                                        </form> -->
                                     </div>
                                 </div>
                             </div>
@@ -155,10 +155,10 @@
                                     <h1>Develop a passion for learning new things.</h1>
                                     <p>A better educated generation, a better future for our nation</p>
                                     <div class="home-button">
-                                        <form action="#">
+                                   <!--     <form action="#">
                                             <input type="search" name="search" id="search" placeholder="Search Courses">
                                             <button type="submit"><i class="fa fa-search"></i></button>
-                                        </form>
+                                        </form> -->
                                     </div>
                                 </div>
                             </div>
@@ -355,7 +355,7 @@
                         <img src="assest/img/Courses/blog-8.jpg" alt="">
                         <div class="course-details padding30">
                             <h3 class="font18">P.G(AUTONOMOUS)</h3>
-                            <p>M.Sc >Organic Chemistry, Analytical Chemistry , Botany,Zoology,Physics</p> 
+                            <p>M.Sc >Organic Chemistry, Analytical, Botany,Zoology,Physics</p> 
                             <p class="mt30"><a href="#" class="enroll-button">Enroll the Courses</a> <span class="course-price"></span></p>
                         </div>
                     </div>
@@ -387,11 +387,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6 col-md-offset-1 col-lg-offset-1 col-sm-12 col-xs-12">
-                    <div class="video-promo-details wow fadeIn">
-                        <div class="video-promo-content">
-                            <span data-video-id="j1S66liv1t8" class="video-area-popup mb30"><i class="fa fa-play"></i></span>
-                        </div>
-                        <img src="assest/img/about/about.jpg" alt="">
+                   <iframe width="1000" height="415" src="https://www.youtube.com/embed/M9vGAxkrka4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
@@ -414,37 +410,37 @@
                     <div class="testmonial-slider">
                         <div class="single-testmonial">
                             <div class="author-content mb20">
-                                <p>Excellent College</p>
+                                <p>VSM has always believed in helping and guiding its students and it was no different during the placement season. Regular classes held at our college to help us with our aptitude and technical skills were of great help. I was placed in Tata Consultancy Services.</p>
                             </div>
                             <div class="author-name-image relative">
                                 <div class="author-img mb20">
-                                    <img src="assest/img/testmonial/testmonial.jpg" alt="">
+                                    <img src="assest/img/testmonial/t1.jpg" alt="">
                                 </div>
-                                <h4>Ashva</h4>
+                                <h4>Papa Rao</h4>
                                 <a href="#">Student</a>
                             </div>
                         </div>
                         <div class="single-testmonial">
                             <div class="author-content mb20">
-                                <p>Excellent College</p>
+                                <p>My experience at VSM College has meant career advancement to a highly responsible and technically challenging position in a leading-edge software company.</p>
                             </div>
                             <div class="author-name-image relative">
                                 <div class="author-img mb20">
-                                    <img src="assest/img/testmonial/testmonial.jpg" alt="">
+                                    <img src="assest/img/testmonial/t2.jpg" alt="">
                                 </div>
-                                <h4>Ashva</h4>
+                                <h4>Anisha</h4>
                                 <a href="#">Student</a>
                             </div>
                         </div>
                         <div class="single-testmonial">
                             <div class="author-content mb20">
-                                <p>Excellent College</p>
+                                <p>My four years at VSM have been excellent and have been full of learning opportunities that were full of fun and future rich.</p>
                             </div>
                             <div class="author-name-image relative">
                                 <div class="author-img mb20">
-                                    <img src="assest/img/testmonial/testmonial.jpg" alt="">
+                                    <img src="assest/img/testmonial/t3.jpg" alt="">
                                 </div>
-                                <h4>Ashva</h4>
+                                <h4>Malli Babu</h4>
                                 <a href="#">Student</a>
                             </div>
                         </div>
