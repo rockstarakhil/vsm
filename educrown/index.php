@@ -70,7 +70,7 @@
                                 <li><a href="#blog">Campus Life</a></li>
                                 <li><a href="#faqs">Placements</a></li>
                                 <li><a href="#contact">Contact</a></li>
-                                <li><a href="http://google.co.in/">Our Old Site</a></li>
+                                <li><a href="http://google.co.in/">Ug/Pg</a></li>
                             </ul>
                         </div>
                     </div>
@@ -809,12 +809,14 @@
                     <div class="col-md-2 col-lg-2 col-sm-4 col-xs-12">
                         <div class="single-footer footer-list white xs-center xs-mb50">
                             <ul>
-                                <li><a href="#">About</a></li>
-                                <li><a href="#">Service</a></li>
-                                <li><a href="#">Team</a></li>
-                                <li><a href="#">Privicy Policy</a></li>
-                                <li><a href="#">Testmonial</a></li>
-                                <li><a href="#">Support</a></li>
+                                <li class="active"><a href="#home">Home</a></li>
+                                <li><a href="#features">Features</a></li>
+                                <li><a href="#courses">Courses</a></li>
+                                <li><a href="#testmonial">Alumini</a></li>
+                                <li><a href="#blog">Campus Life</a></li>
+                                <li><a href="#faqs">Placements</a></li>
+                                <li><a href="#contact">Contact</a></li>
+                                <li><a href="http://google.co.in/">Ug/Pg</a></li>
                             </ul>
                         </div>
                     </div>
