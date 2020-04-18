@@ -66,9 +66,9 @@
                                 <li class="active"><a href="#home">Home</a></li>
                                 <li><a href="#features">Features</a></li>
                                 <li><a href="#courses">Courses</a></li>
-                                <li><a href="#testmonial">Testmonial</a></li>
-                                <li><a href="#blog">Blog</a></li>
-                                <li><a href="#faqs">Faqs</a></li>
+                                <li><a href="#testmonial">Alumini</a></li>
+                                <li><a href="#blog">Campus Life</a></li>
+                                <li><a href="#faqs">Placements</a></li>
                                 <li><a href="#contact">Contact</a></li>
                                 <li><a href="http://google.co.in/">Our Old Site</a></li>
                             </ul>
@@ -565,7 +565,7 @@
                             <a href="blog.html"><img src="assest/img/blog/blog-2.jpg" alt=""></a>
                         </div>
                         <div class="blog-details padding30">
-                            <h3 class="blog-title font20 mb30"><a href="blog.html">NSS & NCC CLUBS</a></h3>
+                            <h3 class="blog-title font20 mb30"><a href="blog.html">CULTURALS</a></h3>
                           <!--  <p class="blog-meta font14 mt20"><a href="#">Feb 01, 2019 </a> by <a href="#">Sanjana</a></p> -->
                         </div>
                     </div>
@@ -587,7 +587,7 @@
                             <a href="blog.html"><img src="assest/img/blog/blog-3.jpg" alt=""></a>
                         </div>
                         <div class="blog-details padding30">
-                            <h3 class="blog-title font20 mb30"><a href="blog.html">CULTURALS</a></h3>
+                            <h3 class="blog-title font20 mb30"><a href="blog.html">NSS & NCC CLUBS</a></h3>
                           <!--  <p class="blog-meta font14 mt20"><a href="#">Feb 01, 2019</a> by <a href="#">CORONA</a></p> -->
                         </div>
                     </div>
