@@ -180,8 +180,8 @@
                         <div class="box-icon features-box-icon">
                             <i class="fa fa-graduation-cap"></i>
                         </div>
-                        <h3 class="box-title">Facilities</h3>
-                        <p>Industry Powered Laboratories</p>
+                        <h3 class="box-title">Most Trusted Institute </h3>
+                        <p>VSM is the  most trusted brand among its students from surrounding areas, academicians from prominent institutions of India have become the part of VSM community</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
@@ -189,8 +189,8 @@
                         <div class="box-icon features-box-icon">
                             <i class="icofont icofont-business-man-alt-1"></i>
                         </div>
-                        <h3 class="box-title">Training & Placements</h3>
-                        <p>Excellent Placement Record Ensuring High Flying Career with</p>
+                        <h3 class="box-title">Training & Placements </h3>
+                        <p>Excellent Placement Record Ensuring High Flying Career with VSM</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
@@ -198,8 +198,8 @@
                         <div class="box-icon features-box-icon">
                             <i class="fa fa-rocket"></i>
                         </div>
-                        <h3 class="box-title">Excellent Placements</h3>
-                        <p>Excellent Placement Record Ensuring High Flying Career with</p>
+                        <h3 class="box-title">Research & Innovations</h3>
+                        <p>Focusing on promoting innovation in technology,VSM is known to provide facilities at par with India’s top technology institutes.</p>
                     </div>
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
@@ -257,7 +257,7 @@
                 <div class="col-md-3 col-sm-6 col-xs-12">
                     <div class="single-fun-fact mb30 wow fadeInUp" data-wow-delay="0.4s">
                         <h3 class="font60 xs-font26">NAAC</h3>
-                        <p class="font600">Accredited Institution</p>
+                        <p class="font600">Accredited Group</p>
                     </div>
                 </div>
             </div>
@@ -280,7 +280,7 @@
                     <div class="single-course mb20">
                         <img src="assest/img/Courses/blog-1.jpg" alt="">
                         <div class="course-details padding30">
-                            <h3 class="font18">B.tech(Affiliated to JNTUK)</h3>
+                            <h3 class="font18">B.Tech(Permanently Affiliated to JNTUK, Kakinada)</h3>
                             <p>ECE,  EEE,  CSE, CIVIL, MECH</p>
                             <p class="mt30"><a href="#" class="enroll-button">Enroll the Courses</a> <span class="course-price"></span></p>
                         </div>
@@ -300,7 +300,7 @@
                     <div class="single-course mb20">
                         <img src="assest/img/Courses/blog-3.jpg" alt="">
                         <div class="course-details padding30">
-                            <h3 class="font18">POLYTECHNIC</h3>
+                            <h3 class="font18">POLYTECHNIC(Affiliated To SBTET)</h3>
                             <p>DECE , DEEE , DME </p>
                             <p class="mt30"><a href="#" class="enroll-button">Enroll the Courses</a> <span class="course-price"></span></p>
                         </div>
@@ -361,6 +361,17 @@
                     </div>
                 </div>
 
+                <div class="col-md-3 col-lg-3 col-sm-6 col-xs-12">
+                    <div class="single-course mb20">
+                        <img src="assest/img/Courses/blog-9.jpg" alt="">
+                        <div class="course-details padding30">
+                            <h3 class="font18">Intermediate</h3>
+                            <p>MPC</p> 
+                            <p class="mt30"><a href="#" class="enroll-button">Enroll the Courses</a> <span class="course-price"></span></p>
+                        </div>
+                    </div>
+                </div>
+
 
             </div>
         </div>
@@ -368,22 +379,22 @@
     <!--COURSE AREA END-->
 
     <!--ABOUT AREA-->
-    <section class="section-padding about-area" id="about">
+   <ul><section class="section-padding about-area" id="about">
         <div class="container">
             <div class="row flex-v-center">
                 <div class="col-md-5 col-lg-5 col-sm-12 col-xs-12">
                     <div class="about-content xs-mb50 wow fadeIn">
                         <h3 class="xs-font20 mb30">Education is the foundation upon which we build our future.</h3>
-                        <p>NCC, NSS Units for both Boys and Girls</p>
-                        <p>Exclusive R&D Labs</p>
-                        <p>Best Placement Award by WIPRO</p>
-                        <p>Digital Classrooms & Expansive Library</p>
-                        <p>Strong Network of Alumni</p>
-                        <p>Sports Ground & Gym</p>
-                        <p>Separate Hostel Facility for both Boys & Girls</p>
-                        <p>Transport Facility available</p>
-                        <p>Certificate Courses (Beautician Course for women</p>
-                        <p>DTP, Tally with GST, Electrical Wiring) - Approved by AKNU</p>
+                       <li><p>NCC, NSS Units for both Boys and Girls</p></li>
+                    <li>    <p>Exclusive R&D Labs</p></li>
+                      <li>  <p>Best Placement Award by WIPRO</p> </li>
+                       <li> <p>Digital Classrooms & Expansive Library</p></li>
+                        <li><p>Strong Network of Alumni</p></li>
+                        <li><p>Sports Ground & Gym</p></li>
+                        <li><p>Separate Hostel Facility for both Boys & Girls</p></li>
+                        <li><p>Transport Facility available</p></li>
+                        <li><p>Certificate Courses (Beautician Course for women</p></li>
+                        <li><p>DTP, Tally with GST, Electrical Wiring) - Approved by AKNU</p></li>
                     </div>
                 </div>
                 <div class="col-md-6 col-lg-6 col-md-offset-1 col-lg-offset-1 col-sm-12 col-xs-12">
@@ -392,7 +403,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section></ul>
     <!--ABOUT AREA END-->
 
     <!--TESTMONIAL AREA AREA-->
@@ -416,7 +427,7 @@
                                 <div class="author-img mb20">
                                     <img src="assest/img/testmonial/t1.jpg" alt="">
                                 </div>
-                                <h4>Papa Rao</h4>
+                                <h4>Papa Rao,ECE</h4>
                                 <a href="#">Student</a>
                             </div>
                         </div>
@@ -428,10 +439,85 @@
                                 <div class="author-img mb20">
                                     <img src="assest/img/testmonial/t2.jpg" alt="">
                                 </div>
-                                <h4>Anisha</h4>
+                                <h4>Anusha, ECE</h4>
                                 <a href="#">Student</a>
                             </div>
                         </div>
+
+                         <div class="single-testmonial">
+                            <div class="author-content mb20">
+                                <p>The College is well equipped with good interface-class rooms, labs, digital library,experienced faculty, supportive administration and the successful campus placements in every academic year.</p>
+                            </div>
+                            <div class="author-name-image relative">
+                                <div class="author-img mb20">
+                                    <img src="assest/img/testmonial/t4.jpg" alt="">
+                                </div>
+                                <h4>Prasad Varma, CSE</h4>
+                                <a href="#">Student</a>
+                            </div>
+                        </div>
+
+                         <div class="single-testmonial">
+                            <div class="author-content mb20">
+                                <p>College life was the best journey of my life. Whenever I remember my College days,I get tears in my eyes. These four years were like four days for me which completed very fast. But, during these days many memories have been created. Environment of VSM was very nice just like a family. The faculty were like a backbone for me, friends were the reason for my smile and juniors were like younger siblings. Everyone recognized my talent with open arms always.</p>
+                            </div>
+                            <div class="author-name-image relative">
+                                <div class="author-img mb20">
+                                    <img src="assest/img/testmonial/t5.jpg" alt="">
+                                </div>
+                                <h4>Kurapati Anil Kumar, CIVIL</h4>
+                                <a href="#">Student</a>
+                            </div>
+                        </div>
+                         <div class="single-testmonial">
+                            <div class="author-content mb20">
+                                <p>A safe, professional and friendly environment.Quality  teaching, assessment and management of learning.</p>
+                            </div>
+                            <div class="author-name-image relative">
+                                <div class="author-img mb20">
+                                    <img src="assest/img/testmonial/t6.jpg" alt="">
+                                </div>
+                                <h4>Balusu Surya chandra prasad, Mechanical</h4>
+                                <a href="#">Student</a>
+                            </div>
+                        </div>
+                         <div class="single-testmonial">
+                            <div class="author-content mb20">
+                                <p>VSM is a combination of excellence and a learning environment. VSM gives its students the best placement platform to realize their dream of a successful corporate career.</p>
+                            </div>
+                            <div class="author-name-image relative">
+                                <div class="author-img mb20">
+                                    <img src="assest/img/testmonial/t7.jpg" alt="">
+                                </div>
+                                <h4>T SITARAMAYYA, CSE</h4>
+                                <a href="#">Student</a>
+                            </div>
+                        </div>
+                         <div class="single-testmonial">
+                            <div class="author-content mb20">
+                                <p>My placement journey has been an eventful one with lots of ups and downs. I remember how nervous I used to get when I had to sit for any interviews and through various mock-drills and regular interactions with the T&P cell I gradually became more and more confident and eventually I was offered a job by HGS. Thank you VSM</p>
+                            </div>
+                            <div class="author-name-image relative">
+                                <div class="author-img mb20">
+                                    <img src="assest/img/testmonial/t8.jpg" alt="">
+                                </div>
+                                <h4>Sivani, ECE</h4>
+                                <a href="#">Student</a>
+                            </div>
+                        </div>
+                         <div class="single-testmonial">
+                            <div class="author-content mb20">
+                                <p>I am very grateful to VSM for providing me such a great platform to not only enhance my skills but help me get a dream job. I was selected by HGS and I am certainly thankful to </p>
+                            </div>
+                            <div class="author-name-image relative">
+                                <div class="author-img mb20">
+                                    <img src="assest/img/testmonial/t9.jpg" alt="">
+                                </div>
+                                <h4>Vineetha, CSE</h4>
+                                <a href="#">Student</a>
+                            </div>
+                        </div>
+
                         <div class="single-testmonial">
                             <div class="author-content mb20">
                                 <p>My four years at VSM have been excellent and have been full of learning opportunities that were full of fun and future rich.</p>
@@ -469,7 +555,7 @@
                         </div>
                         <div class="blog-details padding30">
                             <h3 class="blog-title font20 mb30"><a href="blog.html">CONVOCATION</a></h3>
-                            <p class="blog-meta font14 mt20"><a href="#">Feb 01, 2019 </a> by <a href="#">Akhil Kishore</a></p>
+                         <!--   <p class="blog-meta font14 mt20"><a href="#">Feb 01, 2019 </a> by <a href="#">Akhil Kishore</a></p> -->
                         </div>
                     </div>
                 </div>
@@ -480,7 +566,18 @@
                         </div>
                         <div class="blog-details padding30">
                             <h3 class="blog-title font20 mb30"><a href="blog.html">NSS & NCC CLUBS</a></h3>
-                            <p class="blog-meta font14 mt20"><a href="#">Feb 01, 2019 </a> by <a href="#">Sanjana</a></p>
+                          <!--  <p class="blog-meta font14 mt20"><a href="#">Feb 01, 2019 </a> by <a href="#">Sanjana</a></p> -->
+                        </div>
+                    </div>
+                </div>
+                  <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
+                    <div class="single-blog-item sm-mb30 xs-mb30 wow fadeInUp" data-wow-delay="0.3s">
+                        <div class="blog-thumb">
+                            <a href="blog.html"><img src="assest/img/blog/blog-4.jpg" alt=""></a>
+                        </div>
+                        <div class="blog-details padding30">
+                            <h3 class="blog-title font20 mb30"><a href="blog.html">HackThons</a></h3>
+                           <!-- <p class="blog-meta font14 mt20"><a href="#">Feb 01, 2019 </a> by <a href="#">Sanjana</a></p> -->
                         </div>
                     </div>
                 </div>
@@ -491,7 +588,7 @@
                         </div>
                         <div class="blog-details padding30">
                             <h3 class="blog-title font20 mb30"><a href="blog.html">CULTURALS</a></h3>
-                            <p class="blog-meta font14 mt20"><a href="#">Feb 01, 2019</a> by <a href="#">CORONA</a></p>
+                          <!--  <p class="blog-meta font14 mt20"><a href="#">Feb 01, 2019</a> by <a href="#">CORONA</a></p> -->
                         </div>
                     </div>
                 </div>
@@ -534,7 +631,7 @@
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
                     <div class="text-icon-box relative mb50 wow fadeInUp" data-wow-delay="0.2s">
-                        <h3 class="box-title">Our Placements</h3>
+                        <!--<h3 class="box-title">Our Placements</h3> -->
                         <p>ALIENS GROUP-51</p>
                         <p>GLENWOOD SYSTEMS-20</p>
                         <p>TECH MAHINDRA-46</p>
@@ -542,7 +639,7 @@
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
                     <div class="text-icon-box relative mb50 wow fadeInUp" data-wow-delay="0.3s">
-                        <h3 class="box-title">Our Placements</h3>
+                        <!--<h3 class="box-title">Our Placements</h3> -->
                             <p>WIPRO-15</p>
                             <p>KRIFY-1</p>
                             <p>GENPACT-4</p>
@@ -550,7 +647,7 @@
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
                     <div class="text-icon-box relative mb50 wow fadeInUp" data-wow-delay="0.1s">
-                        <h3 class="box-title">Our Placements</h3>
+                         <!--<h3 class="box-title">Our Placements</h3> -->
                                 <p>TECH TAMMINA-0</p>
                                 <p>INFOSYS-25</p>
                                 <p>COASTAL AQUA-11</p>
@@ -558,17 +655,12 @@
                 </div>
                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
                     <div class="text-icon-box relative mb50 wow fadeInUp" data-wow-delay="0.2s">
-                        <h3 class="box-title">Our Placements</h3>
+                         <!--<h3 class="box-title">Our Placements</h3> -->
                         <p>DIVIS LABORATORIES-48</p>
                             <p>NICE-59</p>
                             <p>INDIAN HEALTHCARE-34</p>
                     </div>
-                </div>
-                <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
-                    <div class="text-icon-box relative mb50 wow fadeInUp" data-wow-delay="0.3s">
-                        <h3 class="box-title">Our Placements</h3>
-                        <p>Many More To Come</p>
-                    </div>
+                </div>camp
                 </div>
             </div>
         </div>

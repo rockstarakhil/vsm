@@ -110,7 +110,7 @@ Version: 1.0
 ----------------------------------*/
 
 .fun-fact-area .area-bg {
-    background: rgba(0, 0, 0, 0) url("assest/img/fact-bg.jpg") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("assest/img/csm.jpg") no-repeat scroll center center / cover;
 }
 
 .fun-fact-area .area-bg::after {
