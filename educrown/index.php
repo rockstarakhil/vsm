@@ -24,7 +24,7 @@
     <link href="assest/css/plugins.css" rel="stylesheet">
     <link href="assest/css/theme.css" rel="stylesheet">
     <link href="assest/css/icons.css" rel="stylesheet">
-    <link href="hocss.css">
+
     <!--====== MAIN STYLESHEETS ======-->
     <link href="style.css" rel="stylesheet">
     <link href="assest/css/responsive.css" rel="stylesheet">
@@ -171,217 +171,8 @@
     </header>
     <!--END TOP AREA-->
 
-    <!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-* {
-  box-sizing: border-box;
-}
-
-
-/* Center website */
-.main {
-  max-width: 1000px;
-  margin: auto;
-  padding: 10px;
-  background-image: url("https://www.vsm.edu.in/Infrastructureimages/13.jpg");
-  background-size: 150% 100%;
-  background-repeat: no-repeat;
-}
-
-h1 {
-  font-size: 50px;
-  word-break: break-all;
-}
-
-.row {
-  margin: 10px -16px;
-}
-
-/* Add padding BETWEEN each column */
-.row,
-.row > .column {
-  padding: 8px;
-}
-
-/* Create three equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 33.33%;
-  display: none; /* Hide all elements by default */
-}]
-
-
-/* Clear floats after rows */ 
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
-/* Content */
-.content {
-  background-color: white;
-  padding: 10px;
-  
-}
-
-/* The "show" class is added to the filtered elements */
-.show {
-  display: block;
-}
-
-/* Style the buttons */
-.btn {
-  border: none;
-  outline: none;
-  padding: 12px 16px;
-  background-color: white;
-  cursor: pointer;
-}
-
-
-.btn.active {
-  background-color: #666;
-  color: white;
-}
-</style>
-<br>
-<hr>
-
-<div class="main">
-
-<!-- MAIN (Center website) -->
-
-<div id="myBtnContainer">
- <!-- <button class="btn active" onclick="filterSelection('all')"> Show all</button> -->
-  <button class="btn" onclick="filterSelection('Benefits')">Benefits</button>
-  <button class="btn" onclick="filterSelection('Self Development')">Self Development</button>
-  <button class="btn" onclick="filterSelection('Spirituality')">Spirituality</button>
-  <button class="btn" onclick="filterSelection('Alumini')">Alumini</button>
-</div>
-
-<!-- Portfolio Gallery Grid -->
-<div class="row">
-  <div class="column Benefits">
-    <div class="content">
-   <!--   <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">-->
-      <h4>Benefits</h4>
-      <p>The Kingster University Alumni Association is excited to announce the arrival of KU Alumni Connect. This is a new community building platform for Kinster’s alumni. It is the only place online where you can find, and connect with, all 90,000 Kingster’s alumni. All alumni are automatically enrolled!
-
-</p>
-
-    </div>
-  </div>
- 
-  <div class="column Self Development">
-    <div class="content">
-   <!--   <img src="/w3images/cars1.jpg" alt="Car" style="width:100%"> -->
-      <h4>Self Development</h4>
-      <p>We Like Development of Self Development
-        We Like Development of Self Developmen
-        We Like Development of Self DevelopmenWe Like Development of Self Developmen
-        We Like Development of Self Developmen
-        We Like Development of Self Developmen
-        We Like Development of Self Developmen
-        We Like Development of Self Developmen
-        We Like Development of Self Developmen
-
-      </p>
-    </div>
-  </div>
- 
-  <div class="column Spirituality">
-    <div class="content">
-   <!--   <img src="/w3images/people1.jpg" alt="Car" style="width:100%"> -->
-      <h4>Spirituality</h4>
-      <p>Spirituality Is here to enhance your skills
-      Spirituality Is here to enhance your skills</p>
-      Spirituality Is here to enhance your skills
-      Spirituality Is here to enhance your skills
-      Spirituality Is here to enhance your skills
-      Spirituality Is here to enhance your skills
-      Spirituality Is here to enhance your skills
-      Spirituality Is here to enhance your skills
-      Spirituality Is here to enhance your skills
-      Spirituality Is here to enhance your skills
-
-    </div>
-  </div>
-
-  <div class="column Alumini ">
-    <div class="content">
-     <!-- <img src="/w3images/people1.jpg" alt="Car" style="width:100%"> -->
-      <h4>Alumini</h4>
-      <p>vHey
-        Hey alumini we want here is to be so as to kindly join our instutite
-        Hey alumini we want here is to be so as to kindly join our instutite alumini we want here is to be so as to kindly join our instutite</p>
-      Hey alumini we want here is to be so as to kindly join our instutite
-      Hey alumini we want here is to be so as to kindly join our instutite
-      Hey alumini we want here is to be so as to kindly join our instutite
-    </div>
-  </div>
- 
-<!-- END GRID -->
-</div>
-
-<!-- END MAIN -->
-</div>
-
-<script>
-filterSelection("Benefits")
-function filterSelection(c) {
-  var x, i;
-  x = document.getElementsByClassName("column");
-  if (c == "all") c = "";
-  for (i = 0; i < x.length; i++) {
-    w3RemoveClass(x[i], "show");
-    if (x[i].className.indexOf(c) > -1) w3AddClass(x[i], "show");
-  }
-}
-
-function w3AddClass(element, name) {
-  var i, arr1, arr2;
-  arr1 = element.className.split(" ");
-  arr2 = name.split(" ");
-  for (i = 0; i < arr2.length; i++) {
-    if (arr1.indexOf(arr2[i]) == -1) {element.className += " " + arr2[i];}
-  }
-}
-
-function w3RemoveClass(element, name) {
-  var i, arr1, arr2;
-  arr1 = element.className.split(" ");
-  arr2 = name.split(" ");
-  for (i = 0; i < arr2.length; i++) {
-    while (arr1.indexOf(arr2[i]) > -1) {
-      arr1.splice(arr1.indexOf(arr2[i]), 1);     
-    }
-  }
-  element.className = arr1.join(" ");
-}
-
-
-// Add active class to the current button (highlight it)
-var btnContainer = document.getElementById("myBtnContainer");
-var btns = btnContainer.getElementsByClassName("btn");
-for (var i = 0; i < btns.length; i++) {
-  btns[i].addEventListener("click", function(){
-    var current = document.getElementsByClassName("active");
-    current[0].className = current[0].className.replace(" active", "");
-    this.className += " active";
-  });
-}
-</script>
-
-
-
-
-
     <!--FEATURES TOP AREA-->
-  <!--  <section class="features-top-area" id="features">
+    <section class="features-top-area" id="features">
         <div class="container">
             <div class="row promo-content">
                 <div class="col-md-4 col-lg-4 col-sm-6 col-xs-12">
@@ -424,10 +215,6 @@ for (var i = 0; i < btns.length; i++) {
         </div>
     </section>
     <!--FEATURES TOP AREA END-->
-
-
-
-
 
     <!--ABOUT TOP CONTENT AREA-->
     <section class="section-padding">
